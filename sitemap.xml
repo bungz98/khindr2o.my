@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN" "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd">
+<article lang="">
+  <para>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&#13;</para>
+  <para>&lt;urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>&lt;url&gt;&#13;</para>
+  <para>&lt;loc&gt;https://khindr2o.my&lt;/loc&gt;&#13;</para>
+  <para>&lt;/url&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>&lt;url&gt;&#13;</para>
+  <para>&lt;loc&gt;https://khindr2o.my/washer-dryer&lt;/loc&gt;&#13;</para>
+  <para>&lt;/url&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>&lt;url&gt;&#13;</para>
+  <para>&lt;loc&gt;https://khindr2o.my/aircond&lt;/loc&gt;&#13;</para>
+  <para>&lt;/url&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>&lt;url&gt;&#13;</para>
+  <para>&lt;loc&gt;https://khindr2o.my/peti-sejuk&lt;/loc&gt;&#13;</para>
+  <para>&lt;/url&gt;&#13;</para>
+  <para>&#13;</para>
+  <para>&lt;/urlset&gt;</para>
+</article>
